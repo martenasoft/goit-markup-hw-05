@@ -471,14 +471,6 @@ img {
     gap: 16px;
 }
 
-.footer-social .footer-paragraph {
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #ffffff;
-    margin-bottom: 16px;
-}
-
 .footer-social-list-item {
     width: 40px;
     height: 40px;
@@ -549,6 +541,10 @@ img {
 
 .footer-paragraph {
     margin-bottom: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 }
 .modal-icon-frame {
     fill: #ffffff;
